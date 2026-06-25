@@ -40,6 +40,8 @@ automation tools, and data-driven platforms — mostly in banking & fintech.
 
 ---
 
-### 📫 Contact
+### 📫 Contact & Socials
 
 - 📧 nazari.moradkhani@gmail.com
+- 💼 [linkedin.com/in/nzicode](https://www.linkedin.com/in/nzicode/)
+- 📸 [instagram.com/nzicode](https://www.instagram.com/nzicode/)
