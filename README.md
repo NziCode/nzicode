@@ -43,4 +43,3 @@ automation tools, and data-driven platforms — mostly in banking & fintech.
 ### 📫 Contact
 
 - 📧 nazari.moradkhani@gmail.com
-- 🌐 [dolmaa.com](https://dolmaa.com)
